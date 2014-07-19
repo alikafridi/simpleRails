@@ -1,28 +1,18 @@
-== README
+== A Boilerplate rails app to build on for projects.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app already has:
 
-Things you may want to cover:
+* A Home page
 
-* Ruby version
+* Custom font and styling
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Header and footer partials
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This app will soon have:
+
+* Users integration with Devise
+
+* Use PG as the database
+
+* Font-Awesome integration
