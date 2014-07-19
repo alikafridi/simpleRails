@@ -1,4 +1,4 @@
-== A Boilerplate rails app to build on for projects.
+== A Boilerplate rails app to build on for future projects.
 
 This app already has:
 
@@ -8,11 +8,8 @@ This app already has:
 
 * Header and footer partials
 
-* Use PG as the database
+* PG as the database
 
 * Font-Awesome integration
-
-
-This app will soon have:
 
 * Users integration with Devise
