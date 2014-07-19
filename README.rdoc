@@ -8,11 +8,11 @@ This app already has:
 
 * Header and footer partials
 
+* Use PG as the database
+
+* Font-Awesome integration
+
 
 This app will soon have:
 
 * Users integration with Devise
-
-* Use PG as the database
-
-* Font-Awesome integration
