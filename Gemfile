@@ -32,7 +32,7 @@ gem 'bootstrap-sass'
 
 gem 'font-awesome-rails'
 
-gem 'devise'
+gem 'devise', '>= 4.6.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
